@@ -1,0 +1,15 @@
+D:\ddd\employees\Employees\Employees.Application\bin\Debug\net6.0\Employees.Application.deps.json
+D:\ddd\employees\Employees\Employees.Application\bin\Debug\net6.0\Employees.Application.dll
+D:\ddd\employees\Employees\Employees.Application\bin\Debug\net6.0\Employees.Application.pdb
+D:\ddd\employees\Employees\Employees.Application\bin\Debug\net6.0\Employees.Domain.dll
+D:\ddd\employees\Employees\Employees.Application\bin\Debug\net6.0\Employees.Domain.pdb
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.csproj.AssemblyReference.cache
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.AssemblyInfoInputs.cache
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.AssemblyInfo.cs
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.csproj.CoreCompileInputs.cache
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.csproj.CopyComplete
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.dll
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\refint\Employees.Application.dll
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\Employees.Application.pdb
+D:\ddd\employees\Employees\Employees.Application\obj\Debug\net6.0\ref\Employees.Application.dll

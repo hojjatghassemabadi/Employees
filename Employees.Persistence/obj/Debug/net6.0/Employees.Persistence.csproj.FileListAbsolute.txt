@@ -1,0 +1,17 @@
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.deps.json
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.dll
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.pdb
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Application.dll
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Domain.dll
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Application.pdb
+D:\ddd\employees\Employees\Employees.Persistence\bin\Debug\net6.0\Employees.Domain.pdb
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.csproj.AssemblyReference.cache
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.AssemblyInfoInputs.cache
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.AssemblyInfo.cs
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.csproj.CoreCompileInputs.cache
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.csproj.CopyComplete
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.dll
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\refint\Employees.Persistence.dll
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.pdb
+D:\ddd\employees\Employees\Employees.Persistence\obj\Debug\net6.0\ref\Employees.Persistence.dll
